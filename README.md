@@ -1,1 +1,1 @@
-# Grupo-Challapalca-Algoritmos-y-estructuras-de-datos
+# Grupo-7-Algoritmos-y-estructuras-de-datos
